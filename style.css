@@ -238,6 +238,13 @@ nav a#openup {
 
     #showcase {
         height: 50vh;
+        background: no-repeat cover;
+        background-attachment: scroll;
+    }
+
+    section#entertainment {
+        background: no-repeat cover;
+        background-attachment: scroll;
     }
 
     #showcase .container {
