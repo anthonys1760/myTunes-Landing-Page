@@ -1,4 +1,4 @@
-# myTunes Landing Page
+# myTunes Responsive Landing Page
  
  ![title-pic](mytunes.png)
  Landing page modeled after iTunes page The logic is very simple with the minimum lines of code possible.
@@ -13,6 +13,7 @@
 - CSS [Style/Presentation]
 - Javascript[Logic/Working of smooth transitions]
 - jQuery
+<hr>
 
 ![title-pic](mytuneslong.jpg)
 
