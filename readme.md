@@ -6,7 +6,7 @@
 ## Steps to execute this Website
 - Download the entire code 
 - Open up the index.html.
-- [View Live Site](https://anthonys1760.github.io/Simple-Calculator/)
+- [View Live Site](https://anthonys1760.github.io/myTunes-Landing-Page/)
 
 ## Technologies used: 
 - HTML [Foundation/Structure]
